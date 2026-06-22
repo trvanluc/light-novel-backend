@@ -43,6 +43,19 @@ app.use((req, res) => {
   });
 });
 
+const prisma = new PrismaClient();
+
+async function testDb() {
+  try {
+    await prisma.$connect();
+    console.log("✅ Database connected");
+  } catch (err) {
+    console.error("❌ Database connection failed:", err);
+  }
+}
+
+testDb();
+
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`🚀 Server đang chạy tại: http://localhost:${PORT}`);
