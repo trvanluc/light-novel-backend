@@ -1,0 +1,1741 @@
+[
+  {
+    "id":1,
+    "title":"Sword Art Online: Aincrad",
+    "series":"Sword Art Online",
+    "author":"Reki Kawahara",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":185000,
+    "stock":45,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Game",
+      "Romance"
+    ],
+    "tags":[
+      "virtual_reality",
+      "game_world",
+      "harem",
+      "isekai"
+    ],
+    "description":"Trong tương lai, con người bị mắc kẹt trong game ảo thực tế Sword Art Online. Kirito phải chiến đấu để sống sót.",
+    "rating":4.7,
+    "page_count":320,
+    "cover_image":"images\/sword-art-online-1.jpg",
+    "additional_images":[
+      "images\/sword-art-online-2.jpg"
+    ]
+  },
+  {
+    "id":2,
+    "title":"Re:Zero - Starting Life in Another World",
+    "series":"Re:Zero",
+    "author":"Tappei Nagatsuki",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":195000,
+    "stock":38,
+    "status":"in_stock",
+    "genres":[
+      "Fantasy",
+      "Isekai",
+      "Drama",
+      "Psychological"
+    ],
+    "tags":[
+      "time_loop",
+      "isekai",
+      "hero",
+      "trauma",
+      "dark_fantasy"
+    ],
+    "description":"Subaru Natsuki bị triệu hồi đến thế giới khác và sở hữu khả năng Return by Death.",
+    "rating":4.8,
+    "page_count":280,
+    "cover_image":"images\/re-zero-1.jpg",
+    "additional_images":[
+      "images\/re-zero-2.jpg"
+    ]
+  },
+  {
+    "id":3,
+    "title":"That Time I Got Reincarnated as a Slime",
+    "series":"Tensei Shitara Slime Datta Ken",
+    "author":"Fuse",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":175000,
+    "stock":52,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Isekai"
+    ],
+    "tags":[
+      "reincarnation",
+      "slime",
+      "nation_building",
+      "harem"
+    ],
+    "description":"Satoru Mikami tái sinh thành Slime và xây dựng quốc gia cho quái vật.",
+    "rating":4.6,
+    "page_count":350,
+    "cover_image":"images\/reincarnated-as-a-slime-1.jpg",
+    "additional_images":[
+      "images\/reincarnated-as-a-slime-2.jpg"
+    ]
+  },
+  {
+    "id":4,
+    "title":"Overlord",
+    "series":"Overlord",
+    "author":"Kugane Maruyama",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":205000,
+    "stock":22,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Adventure",
+      "Dark_Fantasy",
+      "Isekai"
+    ],
+    "tags":[
+      "overpowered_mc",
+      "undead",
+      "guild",
+      "strategy"
+    ],
+    "description":"Momonga trở thành chúa tể hắc ám Ainz Ooal Gown trong thế giới game.",
+    "rating":4.8,
+    "page_count":400,
+    "cover_image":"images\/overload-1.jpg",
+    "additional_images":[
+      "images\/overload-2.jpg"
+    ]
+  },
+  {
+    "id":5,
+    "title":"KonoSuba: God's Blessing on This Wonderful World!",
+    "series":"KonoSuba",
+    "author":"Natsume Akatsuki",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":165000,
+    "stock":60,
+    "status":"in_stock",
+    "genres":[
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Isekai"
+    ],
+    "tags":[
+      "parody",
+      "isekai",
+      "useless_goddess",
+      "harem",
+      "comedy"
+    ],
+    "description":"Kazuma cùng nữ thần vô dụng bắt đầu cuộc phiêu lưu hài hước.",
+    "rating":4.5,
+    "page_count":240,
+    "cover_image":"images\/konosuba-1.jpg",
+    "additional_images":[
+      "images\/konosuba-2.jpg"
+    ]
+  },
+  {
+    "id":6,
+    "title":"The Apothecary Diaries",
+    "series":"Kusuriya no Hitorigoto",
+    "author":"Natsu Hyuuga",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":180000,
+    "stock":35,
+    "status":"in_stock",
+    "genres":[
+      "Mystery",
+      "Historical",
+      "Romance",
+      "Drama"
+    ],
+    "tags":[
+      "court_intrigue",
+      "medicine",
+      "mystery",
+      "detective"
+    ],
+    "description":"Mao Mao dùng kiến thức dược lý điều tra âm mưu trong hậu cung.",
+    "rating":4.9,
+    "page_count":300,
+    "cover_image":"images\/apothecary-diaries-1.jpg",
+    "additional_images":[
+      "images\/apothecary-diaries-2.jpg"
+    ]
+  },
+  {
+    "id":7,
+    "title":"Spice and Wolf",
+    "series":"Spice and Wolf",
+    "author":"Isuna Hasekura",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":170000,
+    "stock":28,
+    "status":"in_stock",
+    "genres":[
+      "Fantasy",
+      "Romance",
+      "Economics",
+      "Slice_of_Life"
+    ],
+    "tags":[
+      "merchant",
+      "wolf_god",
+      "economics",
+      "travel"
+    ],
+    "description":"Thương nhân Lawrence cùng nữ thần sói Holo trên hành trình buôn bán.",
+    "rating":4.7,
+    "page_count":280,
+    "cover_image":"images\/spice-and-wolf-1.jpg",
+    "additional_images":[
+      "images\/spice-and-wolf-2.jpg"
+    ]
+  },
+  {
+    "id":8,
+    "title":"Mushoku Tensei: Jobless Reincarnation",
+    "series":"Mushoku Tensei",
+    "author":"Rifujin na Magonote",
+    "publisher":"Seven Seas",
+    "format":"Paperback",
+    "price":190000,
+    "stock":40,
+    "status":"in_stock",
+    "genres":[
+      "Isekai",
+      "Fantasy",
+      "Drama",
+      "Adventure"
+    ],
+    "tags":[
+      "reincarnation",
+      "isekai",
+      "magic_school",
+      "harem",
+      "redemption"
+    ],
+    "description":"Người đàn ông thất nghiệp tái sinh và sống lại một cuộc đời mới.",
+    "rating":4.6,
+    "page_count":420,
+    "cover_image":"images\/mushoku-tensei-1.jpg",
+    "additional_images":[
+      "images\/mushoku-tensei-2.jpg"
+    ]
+  },
+  {
+    "id":9,
+    "title":"The Eminence in Shadow",
+    "series":"The Eminence in Shadow",
+    "author":"Daisuke Aizawa",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":175000,
+    "stock":55,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Isekai"
+    ],
+    "tags":[
+      "chuunibyou",
+      "shadow_garden",
+      "overpowered",
+      "parody"
+    ],
+    "description":"Cid muốn trở thành \"người đứng sau bóng tối\" và vô tình xây dựng tổ chức khổng lồ.",
+    "rating":4.5,
+    "page_count":260,
+    "cover_image":"images\/eminence-in-shadow-1.jpg",
+    "additional_images":[
+      "images\/eminence-in-shadow-2.jpg"
+    ]
+  },
+  {
+    "id":10,
+    "title":"Ascendance of a Bookworm",
+    "series":"Honzuki no Gekokujou",
+    "author":"Miya Kazuki",
+    "publisher":"J-Novel Club",
+    "format":"Paperback",
+    "price":160000,
+    "stock":48,
+    "status":"in_stock",
+    "genres":[
+      "Fantasy",
+      "Slice_of_Life",
+      "Isekai"
+    ],
+    "tags":[
+      "bookworm",
+      "reincarnation",
+      "printing",
+      "culture"
+    ],
+    "description":"Cô gái yêu sách tái sinh trong thế giới không có sách và quyết tâm tạo ra sách.",
+    "rating":4.8,
+    "page_count":320,
+    "cover_image":"images\/ascendance-of-bookworm-1.jpg",
+    "additional_images":[
+      "images\/ascendance-of-bookworm-2.jpg"
+    ]
+  },
+  {
+    "id":11,
+    "title":"Classroom of the Elite",
+    "series":"Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "author":"Syougo Kinugasa",
+    "publisher":"Seven Seas",
+    "format":"Paperback",
+    "price":185000,
+    "stock":30,
+    "status":"in_stock",
+    "genres":[
+      "Psychological",
+      "Drama",
+      "School_Life"
+    ],
+    "tags":[
+      "school_battle",
+      "strategy",
+      "psychological",
+      "elite"
+    ],
+    "description":"Học viện cạnh tranh khốc liệt bằng điểm lớp và khả năng.",
+    "rating":4.6,
+    "page_count":280,
+    "cover_image":"images\/classroom-of-the-elite-1.jpg",
+    "additional_images":[
+      "images\/classroom-of-the-elite-2.jpg"
+    ]
+  },
+  {
+    "id":12,
+    "title":"No Game No Life",
+    "series":"No Game No Life",
+    "author":"Yuu Kamiya",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":172000,
+    "stock":42,
+    "status":"in_stock",
+    "genres":[
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Game"
+    ],
+    "tags":[
+      "game_world",
+      "siblings",
+      "genius",
+      "isekai"
+    ],
+    "description":"Hai anh em thiên tài Sora và Shiro quyết định mọi thứ bằng trò chơi.",
+    "rating":4.7,
+    "page_count":250,
+    "cover_image":"images\/no-game-no-life-1.jpg",
+    "additional_images":[
+      "images\/no-game-no-life-2.jpg"
+    ]
+  },
+  {
+    "id":13,
+    "title":"The Rising of the Shield Hero",
+    "series":"Tate no Yuusha no Nariagari",
+    "author":"Aneko Yusagi",
+    "publisher":"One Peace Books",
+    "format":"Paperback",
+    "price":168000,
+    "stock":33,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Adventure",
+      "Dark_Fantasy",
+      "Isekai"
+    ],
+    "tags":[
+      "betrayal",
+      "revenge",
+      "shield_hero",
+      "harem"
+    ],
+    "description":"Naofumi bị phản bội và trở thành Anh hùng Khiên để phục thù.",
+    "rating":4.5,
+    "page_count":300,
+    "cover_image":"images\/shield-hero-1.jpg",
+    "additional_images":[
+      "images\/shield-hero-2.jpg"
+    ]
+  },
+  {
+    "id":14,
+    "title":"Monogatari Series",
+    "series":"Monogatari Series",
+    "author":"Nisio Isin",
+    "publisher":"Vertical",
+    "format":"Paperback",
+    "price":195000,
+    "stock":25,
+    "status":"in_stock",
+    "genres":[
+      "Mystery",
+      "Supernatural",
+      "Psychological",
+      "Romance"
+    ],
+    "tags":[
+      "oddity",
+      "vampire",
+      "supernatural",
+      "banter"
+    ],
+    "description":"Câu chuyện về Araragi và những cô gái dính líu đến quái vật lạ lùng.",
+    "rating":4.8,
+    "page_count":380,
+    "cover_image":"images\/monogatari-1.jpg",
+    "additional_images":[
+      "images\/monogatari-2.jpg"
+    ]
+  },
+  {
+    "id":15,
+    "title":"86 -Eighty Six-",
+    "series":"86",
+    "author":"Asato Asato",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":178000,
+    "stock":27,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Drama",
+      "Military",
+      "Sci_Fi"
+    ],
+    "tags":[
+      "war",
+      "mecha",
+      "discrimination",
+      "drama"
+    ],
+    "description":"Đơn vị 86 bị coi là \"không tồn tại\" trong cuộc chiến với Legion.",
+    "rating":4.7,
+    "page_count":290,
+    "cover_image":"images\/86-1.jpg",
+    "additional_images":[
+      "images\/86-2.jpg"
+    ]
+  },
+  {
+    "id":16,
+    "title":"My Next Life as a Villainess: All Routes Lead to Doom!",
+    "series":"Bakarina",
+    "author":"Satoru Yamaguchi",
+    "publisher":"Seven Seas",
+    "format":"Paperback",
+    "price":155000,
+    "stock":50,
+    "status":"in_stock",
+    "genres":[
+      "Comedy",
+      "Romance",
+      "Isekai",
+      "Fantasy"
+    ],
+    "tags":[
+      "villainess",
+      "otome_game",
+      "reverse_harem",
+      "comedy"
+    ],
+    "description":"Tái sinh thành nhân vật phản diện trong game otome và tránh cờ chết.",
+    "rating":4.6,
+    "page_count":240,
+    "cover_image":"images\/my-next-life-1.jpg",
+    "additional_images":[
+      "images\/my-next-life-2.jpg"
+    ]
+  },
+  {
+    "id":17,
+    "title":"The Angel Next Door Spoils Me Rotten",
+    "series":"Otonari no Tenshi-sama",
+    "author":"Miyazaki Saori",
+    "publisher":"KA Books",
+    "format":"Paperback",
+    "price":162000,
+    "stock":45,
+    "status":"in_stock",
+    "genres":[
+      "Romance",
+      "Slice_of_Life",
+      "School_Life"
+    ],
+    "tags":[
+      "wholesome",
+      "romance",
+      "neighbor",
+      "healing"
+    ],
+    "description":"Chàng trai cô độc được thiên thần hàng xóm chăm sóc.",
+    "rating":4.5,
+    "page_count":220,
+    "cover_image":"images\/the-angel-next-door-1.jpg",
+    "additional_images":[
+      "images\/the-angel-next-door-2.jpg"
+    ]
+  },
+  {
+    "id":18,
+    "title":"By the Grace of the Gods",
+    "series":"By the Grace of the Gods",
+    "author":"Roy",
+    "publisher":"Micro Magazine",
+    "format":"Paperback",
+    "price":158000,
+    "stock":60,
+    "status":"in_stock",
+    "genres":[
+      "Slice_of_Life",
+      "Fantasy",
+      "Isekai"
+    ],
+    "tags":[
+      "slime_tamer",
+      "relaxed",
+      "healing",
+      "isekai"
+    ],
+    "description":"Người đàn ông tái sinh sống chậm rãi cùng các slime.",
+    "rating":4.4,
+    "page_count":210,
+    "cover_image":"images\/grace-of-god-1.jpg",
+    "additional_images":[
+      "images\/grace-of-god-2.jpg"
+    ]
+  },
+  {
+    "id":19,
+    "title":"The Holy Grail of Eris",
+    "series":"The Holy Grail of Eris",
+    "author":"Kujira Toki",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":172000,
+    "stock":32,
+    "status":"in_stock",
+    "genres":[
+      "Mystery",
+      "Historical",
+      "Fantasy"
+    ],
+    "tags":[
+      "mystery",
+      "possession",
+      "execution",
+      "intrigue"
+    ],
+    "description":"Cô gái bị hành quyết tái sinh và hợp tác điều tra bí mật.",
+    "rating":4.6,
+    "page_count":310,
+    "cover_image":"images\/holy-grail-of-eris-1.jpg",
+    "additional_images":[
+      "images\/holy-grail-of-eris-2.jpg"
+    ]
+  },
+  {
+    "id":20,
+    "title":"Made in Abyss",
+    "series":"Made in Abyss",
+    "author":"Akihito Tsukushi",
+    "publisher":"Seven Seas",
+    "format":"Paperback",
+    "price":168000,
+    "stock":40,
+    "status":"in_stock",
+    "genres":[
+      "Adventure",
+      "Dark_Fantasy",
+      "Mystery"
+    ],
+    "tags":[
+      "abyss",
+      "exploration",
+      "dark",
+      "adventure"
+    ],
+    "description":"Riko và Reg xuống vực thẳm Abyss tìm mẹ.",
+    "rating":4.7,
+    "page_count":280,
+    "cover_image":"images\/made-in-abyss-1.jpg",
+    "additional_images":[
+      "images\/made-in-abyss-2.jpg"
+    ]
+  },
+  {
+    "id":21,
+    "title":"Death March to the Parallel World Rhapsody",
+    "series":"Death March",
+    "author":"Hiro Ainana",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":165000,
+    "stock":47,
+    "status":"in_stock",
+    "genres":[
+      "Isekai",
+      "Adventure",
+      "Fantasy",
+      "Slice_of_Life"
+    ],
+    "tags":[
+      "isekai",
+      "programming",
+      "overpowered",
+      "relaxed"
+    ],
+    "description":"Lập trình viên bị dịch chuyển đến thế giới fantasy với kỹ năng cheat.",
+    "rating":4.5,
+    "page_count":270,
+    "cover_image":"images\/death-march-1.jpg",
+    "additional_images":[
+      "images\/death-march-2.jpg"
+    ]
+  },
+  {
+    "id":22,
+    "title":"So I'm a Spider, So What?",
+    "series":"Kumo Desu ga, Nani ka?",
+    "author":"Okina Baba",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":175000,
+    "stock":36,
+    "status":"in_stock",
+    "genres":[
+      "Isekai",
+      "Fantasy",
+      "Comedy",
+      "Action"
+    ],
+    "tags":[
+      "spider",
+      "isekai",
+      "reincarnation",
+      "level_up"
+    ],
+    "description":"Cô gái tái sinh thành nhện và cố gắng sống sót trong dungeon.",
+    "rating":4.6,
+    "page_count":290,
+    "cover_image":"images\/spider-1.jpg",
+    "additional_images":[
+      "images\/spider-2.jpg"
+    ]
+  },
+  {
+    "id":23,
+    "title":"The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+    "series":"The World's Finest Assassin",
+    "author":"Rui Tsukiyo",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":180000,
+    "stock":41,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Isekai",
+      "Fantasy"
+    ],
+    "tags":[
+      "assassin",
+      "reincarnation",
+      "revenge",
+      "magic"
+    ],
+    "description":"Sát thủ hàng đầu được tái sinh để ám sát anh hùng.",
+    "rating":4.5,
+    "page_count":260,
+    "cover_image":"images\/finest-assassin-1.jpg",
+    "additional_images":[
+      "images\/finest-assassin-2.jpg"
+    ]
+  },
+  {
+    "id":24,
+    "title":"Didn't I Say to Make My Abilities Average in the Next Life?!",
+    "series":"Didn't I Say to Make My Abilities Average?",
+    "author":"FUNNY　Kobayashi",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":158000,
+    "stock":55,
+    "status":"in_stock",
+    "genres":[
+      "Comedy",
+      "Isekai",
+      "Fantasy"
+    ],
+    "tags":[
+      "isekai",
+      "average_power",
+      "comedy",
+      "adventure"
+    ],
+    "description":"Cô gái yêu cầu sức mạnh trung bình nhưng bị hiểu lầm thành \"thần\".",
+    "rating":4.4,
+    "page_count":230,
+    "cover_image":"images\/my-abilities-average-1.jpg",
+    "additional_images":[
+      "images\/my-abilities-average-2.jpg"
+    ]
+  },
+  {
+    "id":25,
+    "title":"My Happy Marriage",
+    "series":"My Happy Marriage",
+    "author":"Akumi Agitogi",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":169000,
+    "stock":39,
+    "status":"in_stock",
+    "genres":[
+      "Romance",
+      "Historical",
+      "Fantasy",
+      "Drama"
+    ],
+    "tags":[
+      "arranged_marriage",
+      "supernatural",
+      "healing",
+      "romance"
+    ],
+    "description":"Cô gái bị gia đình ruồng bỏ và kết hôn với người đàn ông mạnh mẽ.",
+    "rating":4.7,
+    "page_count":250,
+    "cover_image":"images\/my-happy-marriage-1.jpg",
+    "additional_images":[
+      "images\/my-happy-marriage-2.jpg"
+    ]
+  },
+  {
+    "id":26,
+    "title":"The Villainess Turns the Hourglass",
+    "series":"The Villainess Turns the Hourglass",
+    "author":"Antstudio \/ Dito \/ Sora",
+    "publisher":"D&C Media",
+    "format":"Paperback",
+    "price":162000,
+    "stock":48,
+    "status":"in_stock",
+    "genres":[
+      "Fantasy",
+      "Romance",
+      "Villainess"
+    ],
+    "tags":[
+      "villainess",
+      "time_travel",
+      "revenge",
+      "otome"
+    ],
+    "description":"Tái sinh và dùng đồng hồ cát để thay đổi số phận.",
+    "rating":4.6,
+    "page_count":240,
+    "cover_image":"images\/hourglass-1.jpg",
+    "additional_images":[
+      "images\/hourglass-2.jpg"
+    ]
+  },
+  {
+    "id":27,
+    "title":"I'm the Evil Lord of an Intergalactic Empire!",
+    "series":"I'm the Evil Lord",
+    "author":"Yomu Mishima",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":178000,
+    "stock":33,
+    "status":"in_stock",
+    "genres":[
+      "Sci_Fi",
+      "Isekai",
+      "Comedy"
+    ],
+    "tags":[
+      "evil_lord",
+      "space_empire",
+      "overpowered",
+      "comedy"
+    ],
+    "description":"Tái sinh thành ác nhân và xây dựng đế chế gian ác.",
+    "rating":4.5,
+    "page_count":280,
+    "cover_image":"images\/evil-lord-of-intergalatic-empire-1.jpg",
+    "additional_images":[
+      "images\/evil-lord-of-intergalatic-empire-2.jpg"
+    ]
+  },
+  {
+    "id":28,
+    "title":"Dahlia in Bloom: Crafting a Fresh Start With Magical Tools",
+    "series":"Dahlia in Bloom",
+    "author":"Hisaya Amagishi",
+    "publisher":"Yen Press",
+    "format":"Paperback",
+    "price":155000,
+    "stock":52,
+    "status":"in_stock",
+    "genres":[
+      "Slice_of_Life",
+      "Fantasy",
+      "Romance"
+    ],
+    "tags":[
+      "crafting",
+      "magic_tools",
+      "healing",
+      "isekai"
+    ],
+    "description":"Cô gái tái sinh và chế tạo công cụ ma thuật.",
+    "rating":4.6,
+    "page_count":220,
+    "cover_image":"images\/dahlia-in-bloom-1.jpg",
+    "additional_images":[
+      "images\/dahlia-in-bloom-2.jpg"
+    ]
+  },
+  {
+    "id":29,
+    "title":"Too Many Losing Heroines!",
+    "series":"Make Heroine ga Oosugiru!",
+    "author":"Takibi Amamori",
+    "publisher":"Media Factory",
+    "format":"Paperback",
+    "price":172000,
+    "stock":44,
+    "status":"in_stock",
+    "genres":[
+      "Comedy",
+      "Romance",
+      "School_Life"
+    ],
+    "tags":[
+      "losing_heroines",
+      "romantic_comedy",
+      "meta"
+    ],
+    "description":"Câu chuyện về những nữ chính thua cuộc trong tình yêu.",
+    "rating":4.7,
+    "page_count":210,
+    "cover_image":"images\/too-many-losing-heroines-1.jpg",
+    "additional_images":[
+      "images\/too-many-losing-heroines-2.jpg"
+    ]
+  },
+  {
+    "id":30,
+    "title":"The Neighbouring Aarya-san Who Sometimes Hides Her Feelings in Russian",
+    "series":"Tokidoki Bosotto Russia-go de Dereru Tonari no Aalya-san",
+    "author":"SunSunSun",
+    "publisher":"角川",
+    "format":"Paperback",
+    "price":160000,
+    "stock":50,
+    "status":"in_stock",
+    "genres":[
+      "Romance",
+      "School_Life",
+      "Comedy"
+    ],
+    "tags":[
+      "tsundere",
+      "russian",
+      "romance",
+      "wholesome"
+    ],
+    "description":"Cô bạn hàng xóm đôi khi nói tiếng Nga để che giấu cảm xúc.",
+    "rating":4.6,
+    "page_count":230,
+    "cover_image":"images\/alya-1.jpg",
+    "additional_images":[
+      "images\/alya-2.jpg"
+    ]
+  },
+  {
+    "id":31,
+    "title":"Haruhi Suzumiya Series",
+    "series":"The Melancholy of Haruhi Suzumiya",
+    "author":"Nagaru Tanigawa",
+    "publisher":"Kadokawa",
+    "format":"Paperback",
+    "price":185000,
+    "stock":29,
+    "status":"in_stock",
+    "genres":[
+      "Comedy",
+      "Sci_Fi",
+      "Supernatural",
+      "School_Life"
+    ],
+    "tags":[
+      "alien",
+      "time_traveler",
+      "espers",
+      "club"
+    ],
+    "description":"Haruhi thành lập câu lạc bộ tìm kiếm những thứ siêu nhiên.",
+    "rating":4.8,
+    "page_count":260,
+    "cover_image":"images\/haruhi-suzumiya-1.jpg",
+    "additional_images":[
+      "images\/haruhi-suzumiya-2.jpg"
+    ]
+  },
+  {
+    "id":32,
+    "title":"A Certain Magical Index",
+    "series":"A Certain Magical Index",
+    "author":"Kazuma Kamachi",
+    "publisher":"Kadokawa",
+    "format":"Paperback",
+    "price":190000,
+    "stock":31,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Sci_Fi",
+      "Fantasy"
+    ],
+    "tags":[
+      "magic_vs_science",
+      "esper",
+      "index"
+    ],
+    "description":"Cậu thiếu niên có khả năng vô hiệu hóa siêu năng lực.",
+    "rating":4.7,
+    "page_count":350,
+    "cover_image":"images\/certain-magical-1.jpg",
+    "additional_images":[
+      "images\/certain-magical-2.jpg"
+    ]
+  },
+  {
+    "id":33,
+    "title":"Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "series":"DanMachi",
+    "author":"Fujino Omori",
+    "publisher":"GA Bunko",
+    "format":"Paperback",
+    "price":165000,
+    "stock":42,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "tags":[
+      "dungeon",
+      "adventurer",
+      "goddess",
+      "harem"
+    ],
+    "description":"Bell Cranel phiêu lưu trong dungeon dưới sự bảo trợ của nữ thần.",
+    "rating":4.6,
+    "page_count":280,
+    "cover_image":"images\/danmachi-1.jpg",
+    "additional_images":[
+      "images\/danmachi-2.jpg"
+    ]
+  },
+  {
+    "id":34,
+    "title":"Saga of Tanya the Evil",
+    "series":"Youjo Senki",
+    "author":"Carlo Zen",
+    "publisher":"Enterbrain",
+    "format":"Paperback",
+    "price":175000,
+    "stock":27,
+    "status":"in_stock",
+    "genres":[
+      "Military",
+      "Isekai",
+      "Action"
+    ],
+    "tags":[
+      "isekai",
+      "war",
+      "military",
+      "salaryman"
+    ],
+    "description":"Người đàn ông tái sinh thành cô bé phù thủy trong thế chiến thay thế.",
+    "rating":4.7,
+    "page_count":300,
+    "cover_image":"images\/youjo-senki-1.jpg",
+    "additional_images":[
+      "images\/youjo-senki-2.jpg"
+    ]
+  },
+  {
+    "id":35,
+    "title":"The Familiar of Zero",
+    "series":"Zero no Tsukaima",
+    "author":"Noboru Yamaguchi",
+    "publisher":"Media Factory",
+    "format":"Paperback",
+    "price":158000,
+    "stock":46,
+    "status":"in_stock",
+    "genres":[
+      "Fantasy",
+      "Isekai",
+      "Romance",
+      "Comedy"
+    ],
+    "tags":[
+      "magic_academy",
+      "familiar",
+      "summon",
+      "isekai"
+    ],
+    "description":"Saito bị triệu hồi đến thế giới phép thuật làm người quen của Louise.",
+    "rating":4.5,
+    "page_count":240,
+    "cover_image":"images\/zero-family-1.jpg",
+    "additional_images":[
+      "images\/zero-family-2.jpg"
+    ]
+  },
+  {
+    "id":36,
+    "title":"Grimgar of Fantasy and Ash",
+    "series":"Hai to Gensou no Grimgar",
+    "author":"Ao Jyumonji",
+    "publisher":"Overlap",
+    "format":"Paperback",
+    "price":168000,
+    "stock":38,
+    "status":"in_stock",
+    "genres":[
+      "Adventure",
+      "Fantasy",
+      "Drama"
+    ],
+    "tags":[
+      "realistic_fantasy",
+      "isekai",
+      "survival"
+    ],
+    "description":"Nhóm người trẻ bị đưa đến thế giới fantasy và phải sống sót thực tế.",
+    "rating":4.6,
+    "page_count":290,
+    "cover_image":"images\/grimgar-1.jpg",
+    "additional_images":[
+      "images\/grimgar-2.jpg"
+    ]
+  },
+  {
+    "id":37,
+    "title":"How Not to Summon a Demon Lord",
+    "series":"How Not to Summon a Demon Lord",
+    "author":"Yukiya Murasaki",
+    "publisher":"Kodansha",
+    "format":"Paperback",
+    "price":172000,
+    "stock":35,
+    "status":"in_stock",
+    "genres":[
+      "Comedy",
+      "Fantasy",
+      "Isekai"
+    ],
+    "tags":[
+      "summon",
+      "demon_lord",
+      "harem",
+      "game"
+    ],
+    "description":"Chơi game và bị triệu hồi thành Demon Lord.",
+    "rating":4.5,
+    "page_count":250,
+    "cover_image":"images\/summon-a-demon-lord-1.jpg",
+    "additional_images":[
+      "images\/summon-a-demon-lord-2.jpg"
+    ]
+  },
+  {
+    "id":38,
+    "title":"The Ryuo's Work is Never Done!",
+    "series":"Ryuuou no Oshigoto!",
+    "author":"Shirow Shiratori",
+    "publisher":"Shinchosha",
+    "format":"Paperback",
+    "price":160000,
+    "stock":49,
+    "status":"in_stock",
+    "genres":[
+      "Slice_of_Life",
+      "Drama",
+      "Game"
+    ],
+    "tags":[
+      "shogi",
+      "child_prodigy",
+      "mentor"
+    ],
+    "description":"Cậu thiếu niên vô địch shogi nhận học trò nhỏ.",
+    "rating":4.6,
+    "page_count":270,
+    "cover_image":"images\/oshigoto-1.jpg",
+    "additional_images":[
+      "images\/oshigoto-2.jpg"
+    ]
+  },
+  {
+    "id":39,
+    "title":"Seirei Gensouki: Spirit Chronicles",
+    "series":"Seirei Gensouki",
+    "author":"Yuri Kitayama",
+    "publisher":"HJ Bunko",
+    "format":"Paperback",
+    "price":165000,
+    "stock":41,
+    "status":"in_stock",
+    "genres":[
+      "Isekai",
+      "Fantasy",
+      "Romance"
+    ],
+    "tags":[
+      "reincarnation",
+      "spirit",
+      "isekai",
+      "revenge"
+    ],
+    "description":"Hai linh hồn hợp nhất và sống ở thế giới phép thuật.",
+    "rating":4.5,
+    "page_count":260,
+    "cover_image":"images\/gensouki-1.jpg",
+    "additional_images":[
+      "images\/gensouki-2.jpg"
+    ]
+  },
+  {
+    "id":40,
+    "title":"The Weakest Tamer Began a Journey to Pick Up Trash",
+    "series":"The Weakest Tamer",
+    "author":"Yuu Minazuki",
+    "publisher":"MF Bunko",
+    "format":"Paperback",
+    "price":155000,
+    "stock":53,
+    "status":"in_stock",
+    "genres":[
+      "Slice_of_Life",
+      "Fantasy",
+      "Adventure"
+    ],
+    "tags":[
+      "taming",
+      "weakest",
+      "healing",
+      "isekai"
+    ],
+    "description":"Cô gái yếu nhất bắt đầu hành trình nhặt rác và thu phục quái vật.",
+    "rating":4.7,
+    "page_count":230,
+    "cover_image":"images\/weakest-tamer-1.jpg",
+    "additional_images":[
+      "images\/weakest-tamer-2.jpg"
+    ]
+  },
+  {
+    "id":41,
+    "title":"Suppose a Kid From the Last Dungeon Boonies Moved to a Starter Town",
+    "series":"Suppose a Kid From the Last Dungeon",
+    "author":"Kaiu Shirai",
+    "publisher":"Kadokawa",
+    "format":"Paperback",
+    "price":170000,
+    "stock":37,
+    "status":"in_stock",
+    "genres":[
+      "Comedy",
+      "Fantasy",
+      "Isekai"
+    ],
+    "tags":[
+      "overpowered_in_disguise",
+      "comedy",
+      "village"
+    ],
+    "description":"Cậu bé từ làng cuối dungeon đến thành phố khởi đầu.",
+    "rating":4.6,
+    "page_count":240,
+    "cover_image":"images\/from-last-dungeon-1.jpg",
+    "additional_images":[
+      "images\/from-last-dungeon-2.jpg"
+    ]
+  },
+  {
+    "id":42,
+    "title":"Black Summoner",
+    "series":"Black Summoner",
+    "author":"Doufu Mayoi",
+    "publisher":"Overlap",
+    "format":"Paperback",
+    "price":168000,
+    "stock":44,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Fantasy",
+      "Isekai"
+    ],
+    "tags":[
+      "summoner",
+      "black",
+      "overpowered"
+    ],
+    "description":"Kelvin triệu hồi và xây dựng đội ngũ mạnh mẽ.",
+    "rating":4.5,
+    "page_count":280,
+    "cover_image":"images\/black-summoner-1.jpg",
+    "additional_images":[
+      "images\/black-summoner-2.jpg"
+    ]
+  },
+  {
+    "id":43,
+    "title":"Arifureta: From Commonplace to World's Strongest",
+    "series":"Arifureta",
+    "author":"Ryo Shirakome",
+    "publisher":"Overlap",
+    "format":"Paperback",
+    "price":175000,
+    "stock":32,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Adventure",
+      "Isekai"
+    ],
+    "tags":[
+      "isekai",
+      "betrayal",
+      "harem",
+      "revenge"
+    ],
+    "description":"Hajime bị phản bội và trở nên mạnh nhất thế giới.",
+    "rating":4.6,
+    "page_count":310,
+    "cover_image":"images\/arifureta-1.jpg",
+    "additional_images":[
+      "images\/arifureta-2.jpg"
+    ]
+  },
+  {
+    "id":44,
+    "title":"In the Land of Leadale",
+    "series":"Leadale no Daichi nite",
+    "author":"Riku Misora",
+    "publisher":"Enterbrain",
+    "format":"Paperback",
+    "price":162000,
+    "stock":46,
+    "status":"in_stock",
+    "genres":[
+      "Slice_of_Life",
+      "Fantasy",
+      "Game"
+    ],
+    "tags":[
+      "vr",
+      "isekai",
+      "relaxed",
+      "nation_building"
+    ],
+    "description":"Cô gái chơi game bị kẹt trong thế giới Leadale.",
+    "rating":4.5,
+    "page_count":250,
+    "cover_image":"images\/land-of-leadale-1.jpg",
+    "additional_images":[
+      "images\/land-of-leadale-2.jpg"
+    ]
+  },
+  {
+    "id":45,
+    "title":"The Executioner and Her Way of Life",
+    "series":"The Executioner and Her Way of Life",
+    "author":"Mato Seihei",
+    "publisher":"Media Factory",
+    "format":"Paperback",
+    "price":172000,
+    "stock":29,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Fantasy",
+      "Drama"
+    ],
+    "tags":[
+      "executioner",
+      "isekai",
+      "killing_gods"
+    ],
+    "description":"Cô gái hành quyết những người bị triệu hồi từ Nhật Bản.",
+    "rating":4.7,
+    "page_count":270,
+    "cover_image":"images\/her-way-of-life-1.jpg",
+    "additional_images":[
+      "images\/her-way-of-life-2.jpg"
+    ]
+  },
+  {
+    "id":46,
+    "title":"Reborn as a Vending Machine, I Now Wander the Dungeon",
+    "series":"Vending Machine",
+    "author":"Iwaya",
+    "publisher":"ASCII Media Works",
+    "format":"Paperback",
+    "price":158000,
+    "stock":51,
+    "status":"in_stock",
+    "genres":[
+      "Comedy",
+      "Fantasy",
+      "Isekai"
+    ],
+    "tags":[
+      "vending_machine",
+      "isekai",
+      "comedy"
+    ],
+    "description":"Tái sinh thành máy bán hàng tự động trong dungeon.",
+    "rating":4.4,
+    "page_count":200,
+    "cover_image":"images\/vending-machine-1.jpg",
+    "additional_images":[
+      "images\/vending-machine-2.jpg"
+    ]
+  },
+  {
+    "id":47,
+    "title":"Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs",
+    "series":"Trapped in a Dating Sim",
+    "author":"Mishima Yomu",
+    "publisher":"Media Factory",
+    "format":"Paperback",
+    "price":165000,
+    "stock":43,
+    "status":"in_stock",
+    "genres":[
+      "Isekai",
+      "Comedy",
+      "Romance"
+    ],
+    "tags":[
+      "otome_game",
+      "mob_character",
+      "mecha"
+    ],
+    "description":"Tái sinh thành nhân vật phụ trong game otome.",
+    "rating":4.6,
+    "page_count":260,
+    "cover_image":"images\/dating-sim-1.jpg",
+    "additional_images":[
+      "images\/dating-sim-2.jpg"
+    ]
+  },
+  {
+    "id":48,
+    "title":"The Greatest Demon Lord Is Reborn as a Typical Nobody",
+    "series":"Shijou Saikyou no Daimaou",
+    "author":"Myoujin Katou",
+    "publisher":"Fujimi Shobo",
+    "format":"Paperback",
+    "price":170000,
+    "stock":39,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Comedy",
+      "Isekai"
+    ],
+    "tags":[
+      "demon_lord",
+      "reincarnation",
+      "school"
+    ],
+    "description":"Ma vương mạnh nhất tái sinh thành học sinh bình thường.",
+    "rating":4.5,
+    "page_count":240,
+    "cover_image":"images\/demon-lord-reborn-1.jpg",
+    "additional_images":[
+      "images\/demon-lord-reborn-2.jpg"
+    ]
+  },
+  {
+    "id":49,
+    "title":"Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells",
+    "series":"Failure Frame",
+    "author":"Kaesu",
+    "publisher":"Kadokawa",
+    "format":"Paperback",
+    "price":168000,
+    "stock":36,
+    "status":"in_stock",
+    "genres":[
+      "Isekai",
+      "Dark_Fantasy",
+      "Action"
+    ],
+    "tags":[
+      "isekai",
+      "revenge",
+      "low_level_spells"
+    ],
+    "description":"Bị triệu hồi và dùng phép thuật cấp thấp để trả thù.",
+    "rating":4.6,
+    "page_count":280,
+    "cover_image":"images\/failure-frame-1.jpg",
+    "additional_images":[
+      "images\/failure-frame-2.jpg"
+    ]
+  },
+  {
+    "id":50,
+    "title":"The Do-Over Damsel Conquers the Dragon Emperor",
+    "series":"The Do-Over Damsel",
+    "author":"Sarasa Nagase",
+    "publisher":"Kadokawa",
+    "format":"Paperback",
+    "price":162000,
+    "stock":47,
+    "status":"in_stock",
+    "genres":[
+      "Romance",
+      "Fantasy",
+      "Villainess"
+    ],
+    "tags":[
+      "time_loop",
+      "isekai",
+      "romance"
+    ],
+    "description":"Cô gái lặp lại thời gian để tránh kết thúc bi thảm.",
+    "rating":4.7,
+    "page_count":230,
+    "cover_image":"images\/dragon-emperor-1.jpg",
+    "additional_images":[
+      "images\/dragon-emperor-2.jpg"
+    ]
+  },
+  {
+    "id":51,
+    "title":"Chillin' in Another World with Level 2 Super Cheat Powers",
+    "series":"Level 2 Cheat Powers",
+    "author":"Moutanda",
+    "publisher":"Kadokawa",
+    "format":"Paperback",
+    "price":165000,
+    "stock":50,
+    "status":"in_stock",
+    "genres":[
+      "Comedy",
+      "Isekai",
+      "Slice_of_Life"
+    ],
+    "tags":[
+      "overpowered",
+      "relaxed",
+      "harem"
+    ],
+    "description":"Tái sinh với cheat level 2 và sống chill.",
+    "rating":4.5,
+    "page_count":220,
+    "cover_image":"images\/chilin-another-world-1.jpg",
+    "additional_images":[
+      "images\/chilin-another-world-2.jpg"
+    ]
+  },
+  {
+    "id":52,
+    "title":"The Unwanted Undead Adventurer",
+    "series":"The Unwanted Undead Adventurer",
+    "author":"Yuu Okano",
+    "publisher":"Overlap",
+    "format":"Paperback",
+    "price":172000,
+    "stock":34,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Fantasy"
+    ],
+    "tags":[
+      "undead",
+      "adventurer",
+      "reincarnation"
+    ],
+    "description":"Tái sinh thành undead và cố gắng trở lại làm adventurer.",
+    "rating":4.6,
+    "page_count":260,
+    "cover_image":"images\/unwanted-undead-adventurer-1.jpg",
+    "additional_images":[
+      "images\/unwanted-undead-adventurer-2.jpg"
+    ]
+  },
+  {
+    "id":53,
+    "title":"Re:Monster",
+    "series":"Re:Monster",
+    "author":"Kogitsune Maru",
+    "publisher":"AlphaPolis",
+    "format":"Paperback",
+    "price":175000,
+    "stock":28,
+    "status":"in_stock",
+    "genres":[
+      "Action",
+      "Dark_Fantasy",
+      "Isekai"
+    ],
+    "tags":[
+      "reincarnation",
+      "monster",
+      "evolution"
+    ],
+    "description":"Tái sinh thành goblin và tiến hóa thành quái vật mạnh mẽ.",
+    "rating":4.5,
+    "page_count":300,
+    "cover_image":"images\/re-monster-1.jpg",
+    "additional_images":[
+      "images\/re-monster-2.jpg"
+    ]
+  },
+  {
+    "id":54,
+    "title":"How a Realist Hero Rebuilt the Kingdom",
+    "series":"Genjitsu Shugi Yuusha no Oukoku Saikenki",
+    "author":"Dojyomaru",
+    "publisher":"Overlap",
+    "format":"Paperback",
+    "price":180000,
+    "stock":31,
+    "status":"in_stock",
+    "genres":[
+      "Fantasy",
+      "Slice_of_Life",
+      "Politics"
+    ],
+    "tags":[
+      "isekai",
+      "realist",
+      "kingdom_building"
+    ],
+    "description":"Anh chàng hiện đại được triệu hồi để xây dựng lại vương quốc.",
+    "rating":4.7,
+    "page_count":290,
+    "cover_image":"images\/rebuilt-the-kingdom-1.jpg",
+    "additional_images":[
+      "images\/rebuilt-the-kingdom-2.jpg"
+    ]
+  },
+  {
+    "id":55,
+    "title":"The Saint's Magic Power is Omnipotent",
+    "series":"The Saint's Magic Power",
+    "author":"Isuke Fujiwara",
+    "publisher":"KADOKAWA",
+    "format":"Paperback",
+    "price":160000,
+    "stock":45,
+    "status":"in_stock",
+    "genres":[
+      "Fantasy",
+      "Romance",
+      "Slice_of_Life"
+    ],
+    "tags":[
+      "saint",
+      "healing",
+      "magic",
+      "isekai"
+    ],
+    "description":"Cô gái bị triệu hồi làm Thánh nữ với sức mạnh chữa lành.",
+    "rating":4.6,
+    "page_count":240,
+    "cover_image":"images\/saint-1.jpg",
+    "additional_images":[
+      "images\/saint-2.jpg"
+    ]
+  },
+  {
+    "id":56,
+    "title":"Doctor Elise: The Royal Lady with the Lamp",
+    "series":"Doctor Elise",
+    "author":"Ki Seung-yeon \/ Yuin",
+    "publisher":"Kakao Page",
+    "format":"Paperback",
+    "price":168000,
+    "stock":42,
+    "status":"in_stock",
+    "genres":[
+      "Drama",
+      "Romance",
+      "Historical"
+    ],
+    "tags":[
+      "regression",
+      "doctor",
+      "royal",
+      "redemption"
+    ],
+    "description":"Công chúa tái sinh và trở thành bác sĩ để chuộc lỗi.",
+    "rating":4.7,
+    "page_count":250,
+    "cover_image":"images\/doctor-elise-1.jpg",
+    "additional_images":[
+      "images\/doctor-elise-2.jpg"
+    ]
+  },
+  {
+    "id":57,
+    "title":"Who Killed the Hero?",
+    "series":"Dare ga Yuusha wo Koroshita ka?",
+    "author":" (2025 popular)",
+    "publisher":" -",
+    "format":"Paperback",
+    "price":175000,
+    "stock":30,
+    "status":"in_stock",
+    "genres":[
+      "Mystery",
+      "Fantasy",
+      "Drama"
+    ],
+    "tags":[
+      "mystery",
+      "hero_killing"
+    ],
+    "description":"Câu chuyện điều tra vụ án giết anh hùng.",
+    "rating":4.6,
+    "page_count":280,
+    "cover_image":"images\/who-killed-hero-1.jpg",
+    "additional_images":[
+      "images\/who-killed-hero-2.jpg"
+    ]
+  },
+  {
+    "id":58,
+    "title":"Blade & Bastard",
+    "series":"Blade & Bastard",
+    "author":"Kugane Maruyama (related style)",
+    "publisher":" -",
+    "format":"Paperback",
+    "price":185000,
+    "stock":25,
+    "status":"in_stock",
+    "genres":[
+      "Adventure",
+      "Dark_Fantasy"
+    ],
+    "tags":[
+      "dungeon",
+      "adventure"
+    ],
+    "description":"Phiêu lưu trong dungeon nguy hiểm.",
+    "rating":4.5,
+    "page_count":300,
+    "cover_image":"images\/blade-bastard-1.jpg",
+    "additional_images":[
+      "images\/blade-bastard-2.jpg"
+    ]
+  },
+  {
+    "id":59,
+    "title":"Infinite Dendrogram",
+    "series":"Infinite Dendrogram",
+    "author":"Sakon Kaidou",
+    "publisher":"HJ Bunko",
+    "format":"Paperback",
+    "price":170000,
+    "stock":38,
+    "status":"in_stock",
+    "genres":[
+      "Game",
+      "Sci_Fi",
+      "Fantasy"
+    ],
+    "tags":[
+      "vr_mmo",
+      "game_world"
+    ],
+    "description":"Thế giới game thực tế ảo vô hạn.",
+    "rating":4.6,
+    "page_count":270,
+    "cover_image":"images\/infinite-dendrogram-1.jpg",
+    "additional_images":[
+      "images\/infinite-dendrogram-2.jpg"
+    ]
+  },
+  {
+    "id":60,
+    "title":"Dinghai Fusheng Records",
+    "series":"Dinghai Fusheng Records",
+    "author":"Fei Tian Ye Xiang",
+    "publisher":" -",
+    "format":"Paperback",
+    "price":165000,
+    "stock":40,
+    "status":"in_stock",
+    "genres":[
+      "Fantasy",
+      "Romance",
+      "Historical"
+    ],
+    "tags":[
+      "ancient_china",
+      "demon_lord",
+      "fairy"
+    ],
+    "description":"Câu chuyện tình giữa ma vương và tiên nữ.",
+    "rating":4.7,
+    "page_count":290,
+    "cover_image":"images\/dinghai-fusheng-1.jpg",
+    "additional_images":[
+      "images\/dinghai-fusheng-2.jpg"
+    ]
+  }
+]

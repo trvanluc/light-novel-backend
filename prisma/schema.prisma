@@ -1,0 +1,194 @@
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// ==================== MODELS CHÍNH ====================
+
+model User {
+  id        Int      @id @default(autoincrement())
+  name      String
+  email     String   @unique
+  password  String
+  role      Role     @default(USER)
+  avatar    String?  @default("https://scontent.fdad3-6.fna.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-png&cstp=mx2048x2048&ctp=s200x200&_nc_cat=1&ccb=1-7&_nc_sid=136b72&_nc_eui2=AeFXis-Ws1ba9euCpNyF5IpSWt9TLzuBU1Ba31MvO4FTUMIxKhdGL0l_UIEYgbZfOZOC1AkxPRklWxBYYDAQZqSo&_nc_ohc=tNJl08MLS00Q7kNvwET7hXx&_nc_oc=Adr8ULQjYlu26eMm5jyDS_YsZSjNeMGFbDJMTTY2mOruTBUDwUWwz0NQR5HjcyrXZzX55nhA9tr4iLYHzkDYvXq4&_nc_zt=24&_nc_ht=scontent.fdad3-6.fna&_nc_ss=7b2a8&oh=00_Af-6newWb4nxQwQASDoqVsvZjyyySEy5U_ILgC9Qm7t-cg&oe=6A4E80BA")
+  phone     String?
+  address   String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  cart      Cart?
+  orders    Order[]
+  reviews   Review[]
+  behaviors UserBehavior[]
+}
+
+model Author {
+  id    Int     @id @default(autoincrement())
+  name  String  @unique
+  bio   String?
+  books Book[]
+}
+
+model Category {
+  id    Int    @id @default(autoincrement())
+  name  String @unique
+  books Book[]
+}
+
+model Publisher {
+  id    Int    @id @default(autoincrement())
+  name  String @unique
+  books Book[]
+}
+
+model Tag {
+  id   Int    @id @default(autoincrement())
+  name String @unique
+
+  books Book[] @relation("BookTags")
+}
+
+model Book {
+  id          Int        @id @default(autoincrement())
+  title       String
+  slug        String     @unique
+  description String?
+  price       Float
+  image       String?
+  stock       Int        @default(50)
+  pageCount   Int?
+  rating      Float?     @default(0)
+  status      BookStatus @default(IN_STOCK)
+
+  authorId    Int
+  categoryId  Int
+  publisherId Int?
+
+  author    Author     @relation(fields: [authorId], references: [id])
+  category  Category   @relation(fields: [categoryId], references: [id])
+  publisher Publisher? @relation(fields: [publisherId], references: [id])
+
+  tags Tag[] @relation("BookTags")
+
+  cartItems  CartItem[]
+  orderItems OrderItem[]
+  reviews    Review[]
+  behaviors  UserBehavior[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Cart {
+  id        Int        @id @default(autoincrement())
+  userId    Int        @unique
+  user      User       @relation(fields: [userId], references: [id])
+  items     CartItem[]
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+}
+
+model CartItem {
+  id       Int @id @default(autoincrement())
+  cartId   Int
+  bookId   Int
+  quantity Int @default(1)
+
+  cart Cart @relation(fields: [cartId], references: [id])
+  book Book @relation(fields: [bookId], references: [id])
+
+  @@unique([cartId, bookId])
+}
+
+model Order {
+  id              Int         @id @default(autoincrement())
+  userId          Int
+  totalAmount     Float
+  status          OrderStatus @default(PENDING)
+  paymentMethod   String      @default("cod")
+  shippingAddress String?
+  note            String?
+
+  deliveredAt     DateTime?
+
+  returnReason    String?
+  returnRequestAt DateTime?
+  returnRejectReason String?
+
+  user      User        @relation(fields: [userId], references: [id])
+  items     OrderItem[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model OrderItem {
+  id       Int   @id @default(autoincrement())
+  orderId  Int
+  bookId   Int
+  quantity Int
+  price    Float // Giá tại thời điểm mua
+
+  order Order @relation(fields: [orderId], references: [id])
+  book  Book  @relation(fields: [bookId], references: [id])
+}
+
+model Review {
+  id        Int      @id @default(autoincrement())
+  userId    Int
+  bookId    Int
+  rating    Int
+  comment   String?
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id])
+  book Book @relation(fields: [bookId], references: [id])
+
+  @@unique([userId, bookId])
+}
+
+model UserBehavior {
+  id        Int            @id @default(autoincrement())
+  userId    Int
+  bookId    Int
+  action    BehaviorAction
+  timestamp DateTime       @default(now())
+
+  user User @relation(fields: [userId], references: [id])
+  book Book @relation(fields: [bookId], references: [id])
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+enum BookStatus {
+  IN_STOCK
+  OUT_OF_STOCK
+  COMING_SOON
+}
+
+enum OrderStatus {
+  PENDING              // Chờ xác nhận
+  CONFIRMED            // Đã xác nhận
+  SHIPPING             // Đang giao
+  DELIVERED            // Đã giao
+  CANCELLED            // Đã hủy
+
+  RETURN_REQUESTED     // Chờ trả hàng
+  RETURNED             // Đã trả hàng
+  RETURN_REJECTED      // Từ chối trả hàng
+}
+
+enum BehaviorAction {
+  VIEW
+  ADD_TO_CART
+  PURCHASE
+  RATE
+}
